@@ -20,7 +20,7 @@ button {
     height: 100px;
     border-radius: 20px;
     border: 2px red solid;
-    margin: 0 200px;
+    margin: 0 600px;
 }
 
 button:hover {
