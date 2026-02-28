@@ -22,3 +22,9 @@ button {
     border: 2px red solid;
     margin: 0 200px;
 }
+
+button:hover {
+    background-color: red;
+    color: white;
+
+}
